@@ -147,9 +147,10 @@ You agree not to:
 ## 14. Contact Information
 
 For questions about these Terms, contact:
-- Discord: [Your Discord Server]
-- Email: [Your Contact Email]
-- Support tickets via `/help` command
+- **Discord Server:** https://discord.gg/r8vjRx7WKN
+- **Discord Developer:** @xyndroxeditz (ID: 1375367648610877440)
+- **Email:** xyndroxeditz@gmail.com
+- **Support Command:** Use `/help` in Discord
 
 ## 15. Severability
 

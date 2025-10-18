@@ -168,7 +168,9 @@ Editorium Bot ("we", "us", or "our") is committed to protecting your privacy. Th
 
 For privacy-related questions or requests:
 
-- **Discord Server:** [Your Discord Server Link]
+- **Discord Server:** https://discord.gg/r8vjRx7WKN
+- **Discord Developer:** @xyndroxeditz (ID: 1375367648610877440)
+- **Email:** xyndroxeditz@gmail.com
 - **Support Command:** Use `/help` in Discord
 - **Premium Support:** Use `/get_premium` for direct developer contact
 - **Response Time:** We aim to respond within 48 hours
