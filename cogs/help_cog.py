@@ -355,7 +355,7 @@ class HelpCog(commands.Cog):
         )
         embed.add_field(
             name="📖 Full Document",
-            value="Our complete Terms of Service is available at:\nhttps://xyndroxeditz.github.io/The-Editorium-Bot-V2.0/terms-of-service.html",
+            value="Our complete Terms of Service is available at:\nhttps://xyndroxeditz.github.io/The-Editorium-Bot-V2.0-Legal-Docs/terms-of-service.html",
             inline=False
         )
         embed.add_field(
@@ -387,7 +387,7 @@ class HelpCog(commands.Cog):
         )
         embed.add_field(
             name="📖 Full Document",
-            value="Our complete Privacy Policy is available at:\nhttps://xyndroxeditz.github.io/The-Editorium-Bot-V2.0/privacy-policy.html",
+            value="Our complete Privacy Policy is available at:\nhttps://xyndroxeditz.github.io/The-Editorium-Bot-V2.0-Legal-Docs/privacy-policy.html",
             inline=False
         )
         embed.add_field(
