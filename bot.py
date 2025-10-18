@@ -106,8 +106,7 @@ async def load_cogs():
         'cogs.admin_cog',
         'cogs.premium_cog',
         'cogs.help_cog',
-        'cogs.media_cog',
-        'cogs.teams_cog'
+        'cogs.media_cog'
     ]
     
     for cog in cogs:
